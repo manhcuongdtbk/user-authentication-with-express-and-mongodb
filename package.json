@@ -1,0 +1,23 @@
+{
+  "name": "user-authentication-with-express-and-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/manhcuongdtbk/user-authentication-with-express-and-mongodb.git"
+  },
+  "author": "manhcuongdtbk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manhcuongdtbk/user-authentication-with-express-and-mongodb/issues"
+  },
+  "homepage": "https://github.com/manhcuongdtbk/user-authentication-with-express-and-mongodb#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

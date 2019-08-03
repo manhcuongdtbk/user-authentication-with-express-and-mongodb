@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules
+
+# MacOS auto generated file
+.DS_Store
